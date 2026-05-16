@@ -1,0 +1,67 @@
+.stats {
+  display: flex;
+  gap: 20px;
+  width: 100%;
+}
+
+.stat-card {
+  width: 100%;
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+  display: flex;
+  border: 1px solid #eee;
+}
+
+.stat-revenue-breakdown {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  list-style: none;
+  padding: 0;
+  margin: 0 0 24px 0;
+  font-size: 13px;
+  color: #6b7280;
+}
+
+.stat-plot {
+  flex: 1;
+  display: flex;
+  align-items: flex-end;
+  gap: 8px;
+  margin-left: 20px;
+}
+
+.plot-col {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  height: 264px;
+}
+
+.plot-line {
+  flex: 1;
+  width: 40px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.plot-gray {
+  background-color: #f3f4f6;
+  width: 100%;
+}
+
+.plot-fill {
+  background-color: #cdff00;
+  width: 100%;
+}
+
+.plot-month {
+  font-size: 12px;
+  color: #6b7280;
+  text-align: center;
+}
