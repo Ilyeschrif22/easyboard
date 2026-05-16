@@ -4,8 +4,8 @@
 <img width="1889" height="878" alt="image" src="https://github.com/user-attachments/assets/1da98d7f-df75-49dd-abfa-458cc6436cc3" />
 
 
-I got tired of the same AI-generated, Tailwind-bloated dashboards that all look identical.
-So I built my own from scratch.
+So yeah I got tired of the same AI-generated, Tailwind-bloated dashboards that all look identical.
+I like the shadcn type design so i made my inspirations and i built my own from scratch.
 
 ## What this is
 
