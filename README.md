@@ -1,6 +1,6 @@
 # MYSPACE
 
-<img width="1886" height="892" alt="image" src="https://github.com/user-attachments/assets/ee884531-a1d1-4c13-b09b-5a9cd9e3abe8" />
+<img width="1910" height="901" alt="image" src="https://github.com/user-attachments/assets/db0aa406-00cd-4c1a-bf2c-a92ce7f02a28" />
 
 I got tired of the same AI-generated, Tailwind-bloated dashboards that all look identical.
 I like the shadcn aesthetic  clean, minimal, intentional  so I took that as inspiration
