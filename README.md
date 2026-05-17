@@ -1,7 +1,7 @@
 
-# Easyboard
+# Myspace
 
-<img width="1889" height="878" alt="image" src="https://github.com/user-attachments/assets/1da98d7f-df75-49dd-abfa-458cc6436cc3" />
+<img width="1886" height="892" alt="image" src="https://github.com/user-attachments/assets/ee884531-a1d1-4c13-b09b-5a9cd9e3abe8" />
 
 
 So yeah I got tired of the same AI-generated, Tailwind-bloated dashboards that all look identical.
