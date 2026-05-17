@@ -17,6 +17,7 @@ const Sidebar = () => {
         <div className="sidebar">
 
             <div className="sidebar-header">
+              <img src="/logo.png" alt="EasyDash" className="sidebar-logo" />
             </div>
 
             <ul className="sidebar-menu">
@@ -72,6 +73,8 @@ const Sidebar = () => {
             </ul>
 
             <div className="sidebar-footer">
+             
+             
               <ul className='sidebar-footer-menu'>
                 <li className="sidebar-footer-link">
                     <svg {...iconProps} className="lucide lucide-settings-icon lucide-settings">

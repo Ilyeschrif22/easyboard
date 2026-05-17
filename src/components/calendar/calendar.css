@@ -7,13 +7,14 @@
   border-radius: 12px;
   background: #fff;
   box-sizing: border-box;
+  height: 305px;
 }
 .calendar-header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 20px;
 }
+
 .calendar-days {
   display: grid;
   grid-template-columns: repeat(7, 1fr);
@@ -33,7 +34,7 @@
 .calendar-dates {
   display: grid;
   grid-template-columns: repeat(7, 1fr);
-  gap: 8px;
+  gap: 4px;
   list-style: none;
   padding: 0;
   margin: 0;
@@ -60,7 +61,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 20px;
+  margin-bottom: 15px;
 }
 
 .nav-btn {
